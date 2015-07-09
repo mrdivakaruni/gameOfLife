@@ -5,7 +5,7 @@ import org.junit.Test;
 
 public class GameOfLifeTest {
 
-    private Cell    cell;
+    private Cell cell;
     private boolean isAlive;
 
     @Test
